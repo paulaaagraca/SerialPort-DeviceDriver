@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# SO
 # Disables standard serial driver and
 #  deletes all its inodes in the /dev/ directory
 # 
