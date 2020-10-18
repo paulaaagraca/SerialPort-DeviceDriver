@@ -23,6 +23,7 @@
 # step two: delete /dev/ttyS* nodes
 device=ttyS
 
+# clean
 for file in `ls /dev/${device}*`
 do
     rm -f ${file}
